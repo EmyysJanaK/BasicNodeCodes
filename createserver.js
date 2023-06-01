@@ -1,4 +1,4 @@
-var http = require('http'); //Inlcude built-in moddule to transfer data over the HTTP.
+var http = require('http'); //Inlcude built-in module to transfer data over the HTTP.
 
 // Create HTTP server object.
 http.createServer(
